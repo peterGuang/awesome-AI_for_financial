@@ -18,6 +18,7 @@ A  list of  awesome libraries, packages and resources in AI for Finance
 - [jieba](https://github.com/fxsjy/jieba/) - "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 
 ## feature_representation
+**[5]** Simonyan, Karen, and Andrew Zisserman. "**Very deep convolutional networks for large-scale image recognition**." arXiv preprint arXiv:1409.1556 (2014). [[pdf]](https://arxiv.org/pdf/1409.1556.pdf) **(VGGNet,Neural Networks become very deep!)** :star::star::star:
 ## feature_selection
 ## market_simulation
 ## trend_prediction

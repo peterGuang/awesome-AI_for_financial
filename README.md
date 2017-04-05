@@ -2,7 +2,7 @@
 A  list of  awesome libraries, packages and resources in AI for Finance
 
 - [tools](#tools)
-- [prediction_by_financial_info](prediction_by_financial_info)
+- [prediction_by_financial_info](#prediction_by_financial_info)
 - [prediction_by_text](#prediction_by_text)
 - [prediction_by_combine](#prediction_by_combine)
 - [asset_allocation](#asset_allocation)

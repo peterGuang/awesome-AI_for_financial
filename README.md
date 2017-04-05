@@ -3,11 +3,11 @@ A  list of  awesome libraries, packages and resources in AI for Finance
 
 - [tools](#tools)
 - [feature representation](#feature representation)
-- [feature selection](feature selection)
-- [market simulation](market simulation)
-- [trend prediction](trend prediction)
-- [price prediction](price prediction)
-- [asset allocation](asset allocation)
+- [feature selection](#feature selection)
+- [market simulation](#market simulation)
+- [trend prediction](#trend prediction)
+- [price prediction](#price prediction)
+- [asset allocation](#asset allocation)
 
 
 ## tools

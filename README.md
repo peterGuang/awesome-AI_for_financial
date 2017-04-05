@@ -18,9 +18,11 @@ A  list of  awesome libraries, packages and resources in AI for Finance
 
 ## feature_selection
 Task definition:
+
 Evaluations
 ## trend_prediction_by_financial_info
 Task definition:
+
 Evaluations
 ### fuzzy rule
 ### Genetic algorithms

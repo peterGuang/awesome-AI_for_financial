@@ -2,9 +2,9 @@
 A  list of  awesome libraries, packages and resources in AI for Finance
 
 - [tools](#tools)
-- [trend_prediction_by_financial_info](#trend_prediction_by_financial_info)
-- [trend_prediction_by_text](#trend_prediction_by_text)
-- [price_prediction](#price_prediction)
+- [prediction_by_financial_info](prediction_by_financial_info)
+- [prediction_by_text](#prediction_by_text)
+- [prediction_by_combine](#prediction_by_combine)
 - [asset_allocation](#asset_allocation)
 
 
@@ -17,20 +17,24 @@ A  list of  awesome libraries, packages and resources in AI for Finance
 - [jieba](https://github.com/fxsjy/jieba/) - "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best Python Chinese word segmentation module.
 
 
-## trend_prediction_by_financial_info
+## prediction_by_financial_info
 Task definition:
+type: 1.classification, 2.regression
 feature representation: 1.technical index, 2.Genetic algorithms, 3.fuzzy rule, 4.chart, 5.raw info
 feature selection: 1.PCA, ...
 Evaluation: 1.accuracy, 2.F1, 3.market simulation
 data frequency: 1.year, 2.month, 3.day, 4.hour, 5.minute, 6.second
 
 **[1]** [1][0][1] Saad E W, Prokhorov D V, Wunsch D C. "**Comparative study of stock trend prediction using time delay, recurrent and probabilistic neural networks[J]**." IEEE Transactions on neural networks, 1998, 9(6): 1456-1470. [[pdf]](http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1666&context=ele_comeng_facwork):star:
-## trend_prediction_by_text
+## prediction_by_text
 Task definition:
+
 Evaluations
-## price_prediction
+## prediction_by_combine
 Task definition:
+
 Evaluations
 ## asset_allocation
 Task definition:
+
 Evaluations

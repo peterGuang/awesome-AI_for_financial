@@ -30,7 +30,7 @@ Evaluation: 1.accuracy, 2.F1, 3.market simulation
 
 data frequency: 1.year, 2.month, 3.day, 4.hour, 5.minute, 6.second
 
-**[1]** [1][0][1] Saad E W, Prokhorov D V, Wunsch D C. "**Comparative study of stock trend prediction using time delay, recurrent and probabilistic neural networks[J]**." IEEE Transactions on neural networks, 1998, 9(6): 1456-1470. [[pdf]](http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=1666&context=ele_comeng_facwork):star:
+**[1]** Schumaker R P, Chen H. "**Textual analysis of stock market prediction using breaking financial news: The AZFin text system[J]**". ACM Transactions on Information Systems (TOIS), 2009, 27(2): 12. [[pdf]](https://www.researchgate.net/profile/Rob_Schumaker/publication/220515646_Textual_analysis_of_stock_market_prediction_using_breaking_financial_news_The_AZFin_text_system/links/56d49bd208aefd177b0f5c73.pdf):star::star::star:
 ## prediction_by_text
 Task definition:
 

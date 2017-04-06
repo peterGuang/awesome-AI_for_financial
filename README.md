@@ -34,6 +34,7 @@ data frequency: 1.year, 2.month, 3.day, 4.hour, 5.minute, 6.second
 
 **[2]** Bollen J, Mao H, Zeng X. "**Twitter mood predicts the stock market[J]**". Journal of computational science, 2011, 2(1): 1-8.[[pdf]](https://arxiv.org/pdf/1010.3003&):star::star::star:
 
+**[3]** Si J, Mukherjee A, Liu B, et al. "**Exploiting Topic based Twitter Sentiment for Stock Prediction[J]**". ACL (2), 2013, 2013: 24-29.[[pdf]](http://www.aclweb.org/old_anthology/P/P13/P13-2.pdf#page=72):star:
 ## prediction_by_text
 Task definition:
 

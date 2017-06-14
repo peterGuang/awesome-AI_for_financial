@@ -1,23 +1,28 @@
 # awesome-AI_for_financial
 A  list of  awesome libraries, packages and resources in AI for Finance
 
-- [tools](#tools)
-- [prediction_by_financial_info](#prediction_by_financial_info)
-- [prediction_by_text](#prediction_by_text)
-- [prediction_by_combine](#prediction_by_combine)
-- [asset_allocation](#asset_allocation)
+- [Tools](#Tools)
+- [Prediction_by_financial_info](#Prediction_by_financial_info)
+- [Prediction_by_text](#Prediction_by_text)
+- [Prediction_by_combine](#Prediction_by_combine)
+- [Asset_allocation](#Asset_allocation)
 
 
 
-## tools
+## Tools
 - [numpy](http://www.numpy.org) - NumPy is the fundamental package for scientific computing with Python.
-- [sklearn](http://scikit-learn.org/stable/) - Machine Learning in Python
-- [tensorflow](https://www.tensorflow.org/) - An open-source software library for Machine Intelligence
+- [scikit-learn](http://scikit-learn.org/stable/) - Machine Learning in Python
+- [Tushare](http://tushare.org/) -TuShare is a free, open source Python financial data interface package. With the Tushare,  you can easily get the public data of the Chinese stock market. It can provide fast, clean, and a variety of convenient analysis data for financial analysts. It has greatly reduced the workload, so financial analysts could focus more on the strategy and model research and implementation. 
+- [Tensorflow](https://www.tensorflow.org/) - An open-source software library for Machine Intelligence
+- [Keras](https://keras.io/) - Keras is a high-level neural networks API, written in Python and capable of running on top of either [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk) or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation. *Being able to go from idea to result with the least possible delay is key to doing good research.*
+- [CNTK](https://cntk.ai/) - The Microsoft Cognitive Toolkit—previously known as CNTK—empowers you to harness the intelligence within massive datasets through deep learning by providing uncompromised scaling, speed, and accuracy with commercial-grade quality and compatibility with the programming languages and algorithms you already use. 
+- [Theano](https://github.com/Theano/Theano) - Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 - [matplotlib](http://matplotlib.org/) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 - [jieba](https://github.com/fxsjy/jieba/) - "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best Python Chinese word segmentation module.
+- [Quantecon](https://quantecon.org/) - QuantEcon is a [NumFOCUS](http://www.numfocus.org/) fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making. We welcome [contributions](http://quantecon.org/get-involved/) and collaboration from the economics community and other partner organizations.
 
 
-## prediction_by_financial_info
+## Prediction_by_financial_info
 Task definition:
 
 type: 1.classification, 2.regression
@@ -35,15 +40,15 @@ data frequency: 1.year, 2.month, 3.day, 4.hour, 5.minute, 6.second
 **[2]** Bollen J, Mao H, Zeng X. "**Twitter mood predicts the stock market[J]**". Journal of computational science, 2011, 2(1): 1-8.[[pdf]](https://arxiv.org/pdf/1010.3003&):star::star::star:
 
 **[3]** Si J, Mukherjee A, Liu B, et al. "**Exploiting Topic based Twitter Sentiment for Stock Prediction[J]**". ACL (2), 2013, 2013: 24-29.[[pdf]](http://www.aclweb.org/old_anthology/P/P13/P13-2.pdf#page=72):star:
-## prediction_by_text
+## Prediction_by_text
 Task definition:
 
 Evaluations
-## prediction_by_combine
+## Prediction_by_combine
 Task definition:
 
 Evaluations
-## asset_allocation
+## Asset_allocation
 Task definition:
 
 Evaluations
